@@ -1,0 +1,13 @@
+﻿name,ring,quadrant,isNew,description
+File Transfer (GoAnywhere),trial,Enterprise Capability,FALSE,
+Azure Data Factory,adopt,Technology,TRUE,
+TerraTest,trial,Technology,TRUE,
+Websockets (SignalR),assess,Technology,TRUE,
+ARM Templates,hold,Technology,FALSE,
+Observability Platform,adopt,Enterprise Capability,FALSE,
+Low code platforms,hold,Innovation,FALSE,
+Micro-frontends,trial,Innovation,FALSE,
+.NET Maui,assess,Innovation,TRUE,
+Open Telemetry (Jaeger),assess,Innovation,TRUE,
+Logging & Monitoring standards,adopt,Principles & Standards,FALSE,
+Non-Functional Requirements,trial,Principles & Standards,TRUE,
