@@ -1,8 +1,8 @@
 ﻿name,ring,quadrant,isNew,description
+Websockets (SignalR),assess,Technology,TRUE,
 File Transfer (GoAnywhere),trial,Enterprise Capability,FALSE,
 Azure Data Factory,adopt,Technology,TRUE,
 TerraTest,trial,Technology,TRUE,
-Websockets (SignalR),assess,Technology,TRUE,
 ARM Templates,hold/retire,Technology,FALSE,
 Observability Platform,adopt,Enterprise Capability,FALSE,
 Low code platforms,hold/retire,Innovation,FALSE,
